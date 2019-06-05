@@ -1,0 +1,13 @@
+dependencies:
+  '@rush-temp/app': 'file:projects/app.tgz'
+lockfileVersion: 5
+packages:
+  'file:projects/app.tgz':
+    dev: false
+    name: '@rush-temp/app'
+    resolution:
+      integrity: sha512-clYGvGkcYv/h+GJvzHpe02tCljLL+/Y0iB56FfO5FFmS7Cv+O7b7LpavRcWCgnpacLdOKDaZo2AwEuMcAmurVg==
+      tarball: 'file:projects/app.tgz'
+    version: 0.0.0
+specifiers:
+  '@rush-temp/app': 'file:./projects/app.tgz'
